@@ -1,4 +1,10 @@
 # 📝 Notes App
+
+> ⚠️ **Archived Notice**  
+> This project was built during my initial learning phase.  
+> This repository is archived and kept only for history and progress tracking.  
+> A better and more professional version of this project will be built in a new repository.
+
 A clean and functional Notes App built using HTML, CSS, and JavaScript.
 This app lets users create notes, edit them directly in the browser, and stores everything in LocalStorage so data never gets lost — even after refreshing or closing the tab.
 Designed with a minimal UI and smooth, distraction-free writing experience.
